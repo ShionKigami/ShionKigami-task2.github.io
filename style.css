@@ -1,0 +1,114 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #07492b;
+}
+
+.header{
+    width:100%; background-color:#92be00; padding: 10px; height: 170px;
+}
+
+.nav_style{
+    float: right;
+    margin: 15px;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #dce61a;
+}
+
+.nHeader{
+    float:left;
+    padding: 40px;
+    margin-top: 60px;
+    margin-left: 10px;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.URLS {
+    background-color:rgb(141, 229, 112);
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 0 auto;
+    font-size: 18px;
+}
+
+.URLS h2{
+    text-align: center;
+}
+
+.olink{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+.olink:hover {
+    color: #dce61a;
+}
+
+.Table{
+    background-color:rgb(198, 227, 120);
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 0 auto;
+    font-size: 18px;
+}
+
+.Table h2{
+    text-align: center;
+}
+
+.tablest{
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+    border-collapse: collapse;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.tabhead{
+    background-color: #dce61a;
+}
+
+.nochet{
+    background-color: #e6c41a;
+}
+
+.chet{
+    background-color: #e6911a;
+}
+
+.Form {
+    background-color:rgb(100, 179, 84);
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 0 auto;
+    font-size: 18px;
+}
+
+.footer{
+    width:100%; background-color:#b34141; padding: 10px; height: 170px;
+}
+
+.nfooter{
+    float:left;
+    padding: 40px;
+    margin-top: 60px;
+    margin-left: 10px;
+    font-size: 40px;
+    color: #ffffff;
+}
